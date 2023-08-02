@@ -32,6 +32,7 @@ In the "BEFORE" measurements, all assets were initially set up and made accessib
 In the "AFTER" measurements, Network Security Groups were fortified by implementing a comprehensive block on ALL traffic, except that originating from my administrative workstation. Additionally, all other resources were shielded by their inherent firewalls, complemented by the integration of Private Endpoints.
 
 ## Attack Maps Before Hardening / Security Controls
+![Windows RDP SMB Auth Fail](https://i.imgur.com/HEETLvE.png)<br>
 ![NSG Allowed Inbound Malicious Flows](https://i.imgur.com/unH1Xjw.png)<br>
 ![Linux Syslog Auth Failures](https://i.imgur.com/eb0JsaP.png)<br>
 ![Windows RDP/SMB Auth Failures](https://i.imgur.com/QCEoYZE.png)<br>
