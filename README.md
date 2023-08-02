@@ -39,8 +39,8 @@ In the "AFTER" measurements, Network Security Groups were fortified by implement
 
 ## Metrics Before Hardening / Security Controls
 
-The following table shows the metrics we measured in our insecure environment for 24 hours:
-Start Time 7/27/2023 12:13:41
+The following table shows the metrics we measured in our insecure environment for 24 hours: <br>
+Start Time 7/27/2023 12:13:41 <br>
 Stop Time 7/28/2023 12:34:13
 
 | Metric                   | Count
